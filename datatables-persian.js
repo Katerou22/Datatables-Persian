@@ -2643,7 +2643,7 @@
                 sEmptyTable       : "اطلاعاتی یافت نشد.",
                 sInfo             : "نمایش _START_ از _END_ کل _TOTAL_ ",
                 sInfoEmpty        : "نمایش 0 از 0 کل 0 ",
-                sInfoFiltered     : "(فیلتز شده از _MAX_ )",
+                sInfoFiltered     : "(فیلتر شده از _MAX_ )",
                 sInfoPostFix      : "",
                 sDecimal          : "",
                 sThousands        : ",",
