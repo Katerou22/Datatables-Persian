@@ -1,7 +1,7 @@
 # Datatables-Persian
 laravel-datatables official package returned to persian language
 
-
+[![ScreenShot](https://image.ibb.co/jkwSUk/datatable_persian.png)](http://laravel.com)
 
 
 # jQuery DataTables API for Laravel 4|5
